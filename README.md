@@ -1,4 +1,6 @@
-﻿
+
+
+![Banner](assets/banner.png)
 
 # 🖋️ Hars-i-Milli: Ziya Gökalp Ontolojisi ve Sistem Analizi
 
